@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670240488 source:d:\info\info probleme\meniu\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+

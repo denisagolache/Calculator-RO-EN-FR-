@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673419101 source:c:\users\denisa golache\desktop\facultate\introducere in programare\meniuip\main.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<vector>
+	<winbgim.h>
+	<stdlib.h>
+
